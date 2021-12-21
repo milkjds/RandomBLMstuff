@@ -1,0 +1,32 @@
+.row{
+    border-style:solid
+}
+
+.skillIcons{
+height: 75px;
+    width: 75px;
+}
+
+.newskillIcons{
+    height: 65px;
+    width: 65px;
+}
+
+.proc{
+    border-style: dashed;
+    border-color: orange;
+    border-width:medium;
+}
+
+.dps{
+   color: red;
+}
+
+.sections{
+    background-color:red;
+    color:springgreen;
+}
+
+.explanation{
+font-style: italic;
+}
